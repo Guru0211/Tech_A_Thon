@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "581544879147",
+    "project_id": "tech-a-thon-2ba54",
+    "storage_bucket": "tech-a-thon-2ba54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581544879147:android:3ebcc372aebb0095a2b66e",
+        "android_client_info": {
+          "package_name": "com.example.tech_a_thon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581544879147-7022pqj09kvonuq99v182oheotptqmjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqzHsM_iIyq7TngMijAGfHAwx5h4_N60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581544879147-7022pqj09kvonuq99v182oheotptqmjd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581544879147-0q14od560bohsht85voeu96b2852tcvo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.techAThon"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581544879147:android:cc737161cc18fccfa2b66e",
+        "android_client_info": {
+          "package_name": "com.example.techathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581544879147-7022pqj09kvonuq99v182oheotptqmjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqzHsM_iIyq7TngMijAGfHAwx5h4_N60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581544879147-7022pqj09kvonuq99v182oheotptqmjd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581544879147-0q14od560bohsht85voeu96b2852tcvo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.techAThon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
